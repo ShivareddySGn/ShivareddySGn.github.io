@@ -1,6 +1,6 @@
 Hello, we are Team Le-v-eL. We are a team of 4 students from the University of massachusetts Boston.
 We are working on a project for the course CS410: Introduction to Software Engineering. Our team members are:
- * Jerome
+ * Jeremy
  * Woody 
  * Sammed
  * Shiva(L)
