@@ -45,6 +45,6 @@ Current Questions / Problems / Something you need
 
 List of Working Packages with responsible Student and Completion Dates
 ======================================================================
-* Examine the benchmark datasets provided by client.
+* Examine the benchmark datasets provided by client with a sample algorithm.
 * Explore Technologies HTML and CSS [Jerome and Woody] by 2/13
 * Explore Technology JS and create finalize requirements and Software architecture of the system[Sameed and shiva ] by 2/13
