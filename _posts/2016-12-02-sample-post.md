@@ -6,9 +6,9 @@ modified: 2016-12-02
 tags: [sample post]
 categories: [intro]
 image:
-    feature: feature.jpg
-    credit: dargadgetz
-    creditlink: http://www.dargadgetz.com/ios-8-abstract-wallpaper-pack-for-iphone-5s-5c-and-ipod-touch-retina/
+    feature: LEVEL.png
+    credit: Mahsa
+    creditlink: https://docs.google.com/presentation/d/1hnJbNfEn5CGOjW47OABf-J-S6i8NOGqDR0c4-RMao3s/edit#slide=id.p
 ---
 
 Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
