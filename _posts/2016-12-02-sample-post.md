@@ -15,7 +15,7 @@ Below is just about everything you'll need to style in the theme. Check the sour
 
 # Sammed111
 
-## Jeremy
+## Jeremy111
 
 ### WoodyLin
 
