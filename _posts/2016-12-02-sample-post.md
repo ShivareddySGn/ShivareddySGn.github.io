@@ -17,7 +17,7 @@ Below is just about everything you'll need to style in the theme. Check the sour
 
 ## Jeremy
 
-### Heading 3
+### WoodyLin
 
 #### Heading 4
 
