@@ -21,7 +21,7 @@ Below is just about everything you'll need to style in the theme. Check the sour
 
 #### Heading 4
 
-##### Heading 5
+##### Shiva
 
 ###### Heading 6
 
